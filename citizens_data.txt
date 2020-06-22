@@ -1,0 +1,4 @@
+personA,03-09-2010,2345671872,personA@gmail.com,Karnataka
+personB,23-12-1980,6782081736,personB@gmail.com,Maharashtra
+personC,07-11-1999,6391376182,personC@gmail.com,Jharkhand
+personD,29-03-1955,9871367281,personD@gmail.com,Andhra Pradesh
