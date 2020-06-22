@@ -1,2 +1,2 @@
 # ABD
-It contains the assignments of bda
+It contains the assignments of abd
